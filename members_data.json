@@ -1,0 +1,207 @@
+[
+    {
+        "member": "Member",
+        "location": "Location",
+        "asNumber": "AS number"
+    },
+    {
+        "member": "4TEL Telekomunikacije",
+        "location": "CIX1",
+        "asNumber": "203964"
+    },
+    {
+        "member": "A1 Hrvatska d.o.o.",
+        "location": "CIX1",
+        "asNumber": "15994"
+    },
+    {
+        "member": "AKD d.o.o.",
+        "location": "CIX1",
+        "asNumber": "59866"
+    },
+    {
+        "member": "AKENES SA",
+        "location": "",
+        "asNumber": "61098"
+    },
+    {
+        "member": "Akton d.o.o.",
+        "location": "CIX1",
+        "asNumber": "25467"
+    },
+    {
+        "member": "Avalon d.o.o.",
+        "location": "CIX2",
+        "asNumber": "201563"
+    },
+    {
+        "member": "BTnet d.o.o.",
+        "location": "CIX1",
+        "asNumber": "1886"
+    },
+    {
+        "member": "Cloudflare Inc",
+        "location": "CIX2",
+        "asNumber": "13335"
+    },
+    {
+        "member": "CRATIS d.o.o.",
+        "location": "CIX2",
+        "asNumber": "61094"
+    },
+    {
+        "member": "DATABOX d.o.o.",
+        "location": "CIX1",
+        "asNumber": "206575"
+    },
+    {
+        "member": "Digital Realty",
+        "location": "CIX2",
+        "asNumber": "199244"
+    },
+    {
+        "member": "EcoNet d.o.o.",
+        "location": "CIX3",
+        "asNumber": "207541"
+    },
+    {
+        "member": "EOLO d.d.",
+        "location": "CIX1",
+        "asNumber": "201987"
+    },
+    {
+        "member": "Fenice Telekom Grupa d.o.o.",
+        "location": "CIX1",
+        "asNumber": "204020"
+    },
+    {
+        "member": "HAKOM",
+        "location": "CIX1",
+        "asNumber": "207514"
+    },
+    {
+        "member": "Hrvatska akademska i istraživačka mreža - CARNet",
+        "location": "CIX1",
+        "asNumber": "2108"
+    },
+    {
+        "member": "HEP Telekomunikacije d.o.o.",
+        "location": "CIX1",
+        "asNumber": "25328"
+    },
+    {
+        "member": "Hrvatski Telekom d.d.",
+        "location": "CIX1",
+        "asNumber": "5391"
+    },
+    {
+        "member": "Hurricane Electric LLC",
+        "location": "CIX1",
+        "asNumber": "6939"
+    },
+    {
+        "member": "Infobip d.o.o.",
+        "location": "CIX2",
+        "asNumber": "43009"
+    },
+    {
+        "member": "Iskon Internet d.d.",
+        "location": "CIX1",
+        "asNumber": "13046"
+    },
+    {
+        "member": "Magic Net d.o.o.",
+        "location": "CIX1",
+        "asNumber": "44377"
+    },
+    {
+        "member": "Microsoft Hrvatska d.o.o.",
+        "location": "CIX1, CIX2",
+        "asNumber": "8075"
+    },
+    {
+        "member": "Ministarstvo pravosuđa, uprave i digitalne transformacije",
+        "location": "CIX1, CIX2",
+        "asNumber": "41336"
+    },
+    {
+        "member": "Odašiljači i veze d.o.o.",
+        "location": "CIX1, CIX2",
+        "asNumber": "48797"
+    },
+    {
+        "member": "Omonia d.o.o.",
+        "location": "CIX1",
+        "asNumber": "44306"
+    },
+    {
+        "member": "Optika kabel TV d.o.o.",
+        "location": "CIX1",
+        "asNumber": "41454"
+    },
+    {
+        "member": "Packet Clearing House - PCH",
+        "location": "CIX1",
+        "asNumber": "42, 3856"
+    },
+    {
+        "member": "PRO-PING d.o.o.",
+        "location": "CIX1",
+        "asNumber": "62161"
+    },
+    {
+        "member": "Release14 d.o.o.",
+        "location": "",
+        "asNumber": "210730"
+    },
+    {
+        "member": "Sedmi odjel d.o.o.",
+        "location": "CIX2",
+        "asNumber": "198785"
+    },
+    {
+        "member": "SETCOR d.o.o.",
+        "location": "CIX1",
+        "asNumber": "61211"
+    },
+    {
+        "member": "Softnet d.o.o.",
+        "location": "CIX1",
+        "asNumber": "9119"
+    },
+    {
+        "member": "Stelkom d.o.o.",
+        "location": "CIX1",
+        "asNumber": "43061"
+    },
+    {
+        "member": "Styria IT Solutions d.o.o.",
+        "location": "CIX1, CIX2",
+        "asNumber": "51577"
+    },
+    {
+        "member": "T - 2 d.o.o.",
+        "location": "CIX 2",
+        "asNumber": "34779"
+    },
+    {
+        "member": "Telemach Hrvatska d.o.o.",
+        "location": "CIX1, CIX2",
+        "asNumber": "205714, 34594"
+    },
+    {
+        "member": "Terrakom d.o.o.",
+        "location": "CIX1",
+        "asNumber": "34362"
+    },
+    {
+        "member": "United group network infrastructure d.o.o.",
+        "location": "CIX2",
+        "asNumber": "31042"
+    },
+    {
+        "member": "VeriSign Netherlands VB",
+        "location": "CIX1",
+        "asNumber": "26415"
+    }
+]
